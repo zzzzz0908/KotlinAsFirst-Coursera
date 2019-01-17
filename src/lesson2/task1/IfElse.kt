@@ -162,6 +162,7 @@ fun triangleKind(a: Double, b: Double, c: Double): Int =
 /*
  *мой первый вариант
  *
+ *
 if (a <= c) {
         if (b < c) {
             return -1
